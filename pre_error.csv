@@ -1,0 +1,5 @@
+﻿,0,1,2,3
+0,2022-03-02 22:00:00,2022-03-02 22:30:00,object of type 'NoneType' has no len(),<Response [200]>
+1,2022-03-02 22:30:00,2022-03-02 23:00:00,object of type 'NoneType' has no len(),<Response [200]>
+2,2022-03-02 23:00:00,2022-03-02 23:30:00,object of type 'NoneType' has no len(),<Response [200]>
+3,2022-03-02 23:30:00,2022-03-03 00:00:00,object of type 'NoneType' has no len(),<Response [200]>
